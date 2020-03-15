@@ -1,4 +1,4 @@
-#Visual-Assistant
+# Visual-Assistant
 
 This system helps blind people by helping them see surrounding things.
 A camera is mounted on a pair of glasses and connected to Raspberry Pi which connects to a Flask server for Object Detection.
